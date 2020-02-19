@@ -1,1 +1,69 @@
-<mxfile host="www.draw.io" modified="2020-02-19T03:11:20.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="jHYoSD_WZXE9DqkPZjyU" version="12.7.1" type="github"><diagram id="Lf7O3TT-PXsTXfC4K4fm" name="Page-1">ddHBEoIgEADQr+EuMJWdzfLSyUNnRjZhBl0HabS+Ph0wY6wLszwWlgXCs2a8WNGpK0owhCVyJPxEGEs5ncYZnh52NPVQWy090RVK/YKASdCHltBHiQ7RON3FWGHbQuUiE9biEKfd0cRVO1HDBspKmK3etHQqtMUOqxega7VUpvujX2nEkhw66ZWQOHwRzwnPLKLzUTNmYOa3W97F7zv/Wf1czELrfmyYgvXsaRJ9EM/f</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-19T03:27:55.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="vIgCBunZ43RiRPSNxP60" version="12.7.1" type="github">
+  <diagram id="Lf7O3TT-PXsTXfC4K4fm" name="Page-1">
+    <mxGraphModel dx="831" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-1" target="9OzX6_WN4ofzsriWhUqh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-1" value="总部漫入漫出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-2" target="9OzX6_WN4ofzsriWhUqh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-2" value="23g信令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-3" value="4g信令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-4" target="9OzX6_WN4ofzsriWhUqh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-4" value="漫入广东用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-8" value="过滤出漫入广东的外省用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-9" target="9OzX6_WN4ofzsriWhUqh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-9" value="用户工作地判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-11" value="每日4时执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-12" target="9OzX6_WN4ofzsriWhUqh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-12" value="监控客群&amp;amp;居住地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-18" target="9OzX6_WN4ofzsriWhUqh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-18" value="是否离开&lt;br&gt;隔离天数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9OzX6_WN4ofzsriWhUqh-19" target="9OzX6_WN4ofzsriWhUqh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-19" value="输出未隔离号码，居住地，当房地，时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9OzX6_WN4ofzsriWhUqh-22" value="地图展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
